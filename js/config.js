@@ -7,7 +7,7 @@ window.AGNES_CONFIG = {
     whatsapp: "5581995697189", // DDI 55 + DDD 81 + número, só dígitos (usado no link wa.me)
     whatsappExibicao: "(81) 99569-7189",
     email: "contatoagneslorena@gmail.com",
-    instagram: "agnesllorena",
+    instagram: "agneslmakeup",
   },
 
   // Mensagem que já vem pronta quando alguém clica em "Agendar" / "Consultar no WhatsApp"
